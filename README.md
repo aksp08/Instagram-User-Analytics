@@ -1,5 +1,15 @@
 # Instragram User Analytics
 
+
+| Project Type | SQL Data Analysis                                     |
+| ------------ | ----------------------------------------------------- |
+| Domain       | Social Media Analytics                                |
+| Dataset Size | 283 Users, 257 Photos                                 |
+| Tools Used   | MySQL Workbench, Excel                         |
+| Focus Areas  | User Engagement, Marketing Insights, Investor Metrics |
+
+
+
 **Project Overview**
 
 In this project, I used SQL to analyze an Instagram-clone relational database. By querying the dataset, meaningful insights were extracted to help the management team make informed decisions regarding user engagement, marketing strategy, and potential platform risks.
