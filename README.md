@@ -15,9 +15,11 @@ User analysis involves tracking how users engage with a digital product such as 
 4. Investors – evaluate platform growth and sustainability
 
 **Problem Statement**
+
 In this project, SQL is used to analyze an Instagram-clone relational database. By querying the dataset, meaningful insights are extracted to help the management team make informed decisions regarding user engagement, marketing strategy, and potential platform risks.
 
 **Tools Used**
+
 MySQL, MySQL Workbench, Microsoft Excel (for exporting query outputs)
 
 SQL Skills Applied:
@@ -42,23 +44,23 @@ The first step involved studying the schema and identifying relationships betwee
 
 Each business requirement from the management team was translated into a structured SQL query. The queries were categorized into two groups:
 
-Marketing Analysis
+**A-Marketing Analysis**
 
-Identifying loyal users
+a. Identifying loyal users
 
-Detecting inactive users
+b. Detecting inactive users
 
-Finding top-performing content
+c. Finding top-performing content
 
-Discovering popular hashtags
+d. Discovering popular hashtags
 
-Analyzing user registration trends
+e. Analyzing user registration trends
 
-Investor Metrics
+**B-Investor Metrics**
 
-Measuring overall user engagement
+a. Measuring overall user engagement
 
-Detecting suspicious activity such as potential bot accounts
+b. Detecting suspicious activity such as potential bot accounts
 
 3. Query Development
 
@@ -85,23 +87,25 @@ User registrations peaked on Thursday and Sunday, each with 16 registrations.
 13 users liked all 257 photos, indicating extremely high engagement or possible automated activity.
 
 **Output**
-Through SQL analysis, the project successfully:
 
-Identified loyal early adopters of the platform
+a. Through SQL analysis, the project successfully:
 
-Quantified inactive users and engagement levels
+b. Identified loyal early adopters of the platform
 
-Determined high-performing content through like analysis
+c. Quantified inactive users and engagement levels
 
-Identified trending hashtags for marketing opportunities
+d. Determined high-performing content through like analysis
 
-Discovered optimal days for marketing campaign launches
+e. Identified trending hashtags for marketing opportunities
 
-Detected potential bot accounts interacting with all platform content
+f. Discovered optimal days for marketing campaign launches
+
+g. Detected potential bot accounts interacting with all platform content
 
 The results demonstrate how structured SQL queries can transform relational data into actionable insights.
 
 **Business Recommendations**
+
 Based on the findings:
 
 1. Re-engage Inactive Users
